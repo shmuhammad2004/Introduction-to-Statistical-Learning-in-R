@@ -1,10 +1,18 @@
 ---
-title: "Chapter 1 Solution"
+title: "Chapter 2 Solution"
 output: html_notebook
 ---
 
 
+#2.4 Exercises
+
+## 
+
+For each of parts (a) through (d), indicate whether we would generally expect the performance of a flexible statistical learning method to be better or worse than an inflexible method. Justify your answer.
+
+
 Chapter one solutions will be coming soon
+
 
 
 
