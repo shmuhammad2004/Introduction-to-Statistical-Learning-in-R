@@ -3,10 +3,9 @@ title: "Chapter 2 Solution"
 output: html_notebook
 ---
 
+2.4 Exercises
 
-###2.4 Exercises
-
-####1.
+1.
 
 (a) A flexible method will be better because they fit model when we have large amount of available data. 
 
@@ -16,8 +15,7 @@ output: html_notebook
 
 (d) A Flexible method produce worst result. As a general rule, as we use more flexible methods, the variance will increase and the bias will decrease .
 
-
-####2.
+2.
 
 (a) This is Regression probelm since we are working on Quantitative. The goal here is inference not prediction.
     * n =500 firms in the US  
@@ -31,3 +29,22 @@ output: html_notebook
 (c) This is Regression and prediction probelm .
     * n = All the weekly data in 2012 
     * p= % change in the US market, the % change in the British market, and the % change in the German market.
+
+
+4.
+
+(a) A doctor in a hospital want find which disease a patient is suffering from. 
+    * This is classification and Inference
+    * response : type of the disease
+    * Predictors : blood sample , Urine sample etc 
+(b) Student Graduation Status
+    * This is classification and inference
+    * response : First Class , Second Class , Pass 
+    * Predictors : Exam grade , Test grade , Assigment grade 
+
+ (c) Election result 
+    * This is classification and prediction
+    * response : Win , Fail 
+    * Predictors : political record , money , honesty , literacy
+
+
